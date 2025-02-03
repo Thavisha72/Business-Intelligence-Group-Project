@@ -1,6 +1,4 @@
-# Business-Intelligence-Group-Project
-
-Predicting Accident Severity Based on Driver Behavior and Environmental Factors
+# Predicting Accident Severity Based on Driver Behavior and Environmental Factors
 Group Project
 Group Members
 
